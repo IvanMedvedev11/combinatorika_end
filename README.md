@@ -1,1 +1,2 @@
-# combinatorika_end
+task123 - задания 1 2 3
+task5 - последнее задание
